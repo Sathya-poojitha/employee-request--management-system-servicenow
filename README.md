@@ -135,40 +135,19 @@ The dashboard was created to provide a visual representation of employee request
 - Request monitoring
 
 
-# 📸 screen shots
+# 📸 Screen Shots
 
-The following screenshots are included in the screen shots folder:
+## Module View
+![Module View](Employee%20Request%20System%20ServiceNow/screen%20shots/module_view.jpeg)
 
-### Module View
-Modules created in the ServiceNow application
+## Table Structure
+![Table Structure](Employee%20Request%20System%20ServiceNow/screen%20shots/table_structure.jpeg)
 
-File:
-module_view.jpeg
+## Pie Chart Report
+![Pie Chart Report](Employee%20Request%20System%20ServiceNow/screen%20shots/report_piechart.jpeg)
 
-
-
-### Table Structure
-Employee Requests table fields and configuration
-
-File:
-table_structure.jpeg
-
-
-
-### Pie Chart Report
-Employee Request Status Report using Pie Chart visualization
-
-File:
-report_piechart.jpeg
-
-
-
-### Dashboard
-Employee Request Dashboard with request analytics
-
-File:
-dashboard.jpeg
-
+## Dashboard
+![Dashboard](Employee%20Request%20System%20ServiceNow/screen%20shots/dashboard.jpeg)
 
 
 # 🔄 Project Workflow
