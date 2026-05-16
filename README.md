@@ -137,7 +137,7 @@ The dashboard was created to provide a visual representation of employee request
 
 # 📸 screen shots
 
-The following screenshots are included in the Screenshots folder:
+The following screenshots are included in the screen shots folder:
 
 ### Module View
 Modules created in the ServiceNow application
