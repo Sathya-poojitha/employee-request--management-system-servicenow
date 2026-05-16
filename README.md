@@ -135,7 +135,7 @@ The dashboard was created to provide a visual representation of employee request
 - Request monitoring
 
 
-# 📸 Project Screenshots
+# 📸 screen shots
 
 The following screenshots are included in the Screenshots folder:
 
