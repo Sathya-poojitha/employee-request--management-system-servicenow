@@ -143,7 +143,7 @@ The following screenshots are included in the screen shots folder:
 Modules created in the ServiceNow application
 
 File:
-module_view.JPEG
+module_view.jpeg
 
 
 
@@ -151,7 +151,7 @@ module_view.JPEG
 Employee Requests table fields and configuration
 
 File:
-table_structure.JPEG
+table_structure.jpeg
 
 
 
@@ -159,7 +159,7 @@ table_structure.JPEG
 Employee Request Status Report using Pie Chart visualization
 
 File:
-report_piechart.JPEG
+report_piechart.jpeg
 
 
 
@@ -167,7 +167,7 @@ report_piechart.JPEG
 Employee Request Dashboard with request analytics
 
 File:
-dashboard.JPEG
+dashboard.jpeg
 
 
 
