@@ -2,6 +2,10 @@
 
 ## 📌 Project Overview
 
+The Employee Request and Approval Management System is a ServiceNow-based application developed to streamline employee service request handling and approval processes. The system allows employees to submit requests and enables administrators to manage, track, and monitor requests efficiently using records, reports, and dashboard visualizations.
+
+This project demonstrates end-to-end ServiceNow development including custom table creation, module creation, record management, report generation, and dashboard integration.
+
 
 
 ## 🛠️ Technologies Used
@@ -136,7 +140,7 @@ The dashboard was created to provide a visual representation of employee request
 The following screenshots are included in the Screenshots folder:
 
 ### Module View
-Displays the modules created in the ServiceNow application.
+Modules created in the ServiceNow application
 
 File:
 module_view.JPEG
@@ -144,7 +148,7 @@ module_view.JPEG
 
 
 ### Table Structure
-Displays Employee Requests table fields and configuration.
+Employee Requests table fields and configuration
 
 File:
 table_structure.JPEG
@@ -152,7 +156,7 @@ table_structure.JPEG
 
 
 ### Pie Chart Report
-Shows the Employee Request Status Report using Pie Chart visualization.
+Employee Request Status Report using Pie Chart visualization
 
 File:
 report_piechart.JPEG
@@ -160,7 +164,7 @@ report_piechart.JPEG
 
 
 ### Dashboard
-Displays the Employee Request Dashboard with request analytics.
+Employee Request Dashboard with request analytics
 
 File:
 dashboard.JPEG
